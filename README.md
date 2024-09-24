@@ -86,9 +86,9 @@ In another terminal window/tab, navigate to the ui directory and start the devel
 bash
 cd ui
 npm run dev
-```
 
-## 🛠️ Usage
+
+### 🛠️ Usage
 
 ### 1. Adding a Product
 
