@@ -58,7 +58,7 @@ cd hardhat
 bash
 npm install
 
-## ▶️  Running the Project
+##  Running the Project
 1. Start the Hardhat Local Blockchain
 The Hardhat environment provides a local Ethereum blockchain for development and testing.
 
@@ -117,10 +117,12 @@ QR codes play a crucial role in bridging the physical product with its digital N
 
 Check out our live demo! 🎬👇
 
-https://youtu.be/5OHzwrdS9VA?feature=shared
+ [![Watch the video](https://img.youtube.com/vi/5OHzwrdS9VA/maxresdefault.jpg)](https://https://youtu.be/5OHzwrdS9VA?feature=shared)
 
 ---
 
-## 📜 License
+## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
